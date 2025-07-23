@@ -8,8 +8,8 @@ This repository contains manual implementations of core machine learning algorit
 
 - Linear Regression
 - Multiple Linear Regression using Gradient Descent
-- Ridge Regression
-- SGD Regressor
+- Ridge Regression(Least Square method and Gradient Descent method)
+- SGD Regressor (Stochastic Gradient Descent)
 - Mini-Batch Gradient Descent
 
 ### Classification
